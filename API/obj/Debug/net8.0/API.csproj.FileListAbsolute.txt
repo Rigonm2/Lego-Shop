@@ -262,3 +262,6 @@ C:\Users\Lenovo Legion\Desktop\New Project\lego\API\obj\Debug\net8.0\refint\API.
 C:\Users\Lenovo Legion\Desktop\New Project\lego\API\obj\Debug\net8.0\API.pdb
 C:\Users\Lenovo Legion\Desktop\New Project\lego\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\Lenovo Legion\Desktop\New Project\lego\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\Lenovo Legion\Desktop\New Project\lego\API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Lenovo Legion\Desktop\New Project\lego\API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Lenovo Legion\Desktop\New Project\lego\API\bin\Debug\net8.0\API.staticwebassets.runtime.json
