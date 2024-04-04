@@ -20,9 +20,17 @@ namespace Core.Specifications
         public Expression<Func<T, bool>> Criteria {get;}
 
         public List<Expression<Func<T, object>>> Includes {get;} = new List<Expression<Func<T, object>>>();
+        public Expression<Func<T,object>>OrderBy{get;}
+        public Expression<Func<T,object>>OrderByDescending{get;}
 
         protected void AddInclude(Expression<Func<T, object>> includeExpression){
             Includes.Add(includeExpression);
+        }
+        protected void AddOrderBy(Expression<Func<T, object>> orderByExpression){
+            OrderBy = orderByExpression;
+        }
+         protected void AddOrderByDescending(Expression<Func<T, object>> orderbyDescExpression){
+            OrderByDescending = orderbyDescExpression;
         }
     }
 }
