@@ -27,6 +27,8 @@ if (app.Environment.IsDevelopment())
 }
 app.UseStaticFiles();
 
+app.UseCors("CorsPolicy");
+
 app.UseAuthorization();
 
 app.MapControllers();
@@ -43,7 +45,7 @@ try
 }
 catch (Exception x)
 {
-
+    
     logger.LogError(x, "An error occured during migration");
 }
 
