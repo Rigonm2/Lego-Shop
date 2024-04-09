@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "11lS5QlH76sZtCE+GDAVh5daGbfh6477kJrZbOHU+0ijW8JwcsjgcFg1JBnSgdHR70wUAvj6hJYZJpfk8tvZkg==",
+  "dgSpecHash": "o0d9p2COayOcbFvZvnb9vCaOaafv+7odfuJxXPz+xqwklDOvToesTbXOT2exW0dilvZHMbpReL4KzvjQzLv+yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo Legion\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Lenovo Legion\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
