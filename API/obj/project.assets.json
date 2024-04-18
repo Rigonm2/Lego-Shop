@@ -3122,19 +3122,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo Legion\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Documents\\GitHub\\Lego-Shop\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\Lenovo Legion\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\obj\\",
+      "projectPath": "C:\\Users\\DELL\\Documents\\GitHub\\Lego-Shop\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DELL\\Documents\\GitHub\\Lego-Shop\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lenovo Legion\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -3146,8 +3146,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\DELL\\Documents\\GitHub\\Lego-Shop\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Documents\\GitHub\\Lego-Shop\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -3201,7 +3201,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
