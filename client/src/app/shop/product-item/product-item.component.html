@@ -1,0 +1,21 @@
+<div class="card h-100 shadow-sm px-2 py-4" *ngIf="product">
+    
+    <img src="{{product.pictureUrl}}" alt="{{product.name}}" class="h-100 mb-5 px-2">
+    <div class="car-body d-flex flex-column">
+        <a href="" class="text-decoration-none">
+            <h6 class="text-uppercase px-2">
+                {{product.name}}
+            </h6>
+        </a>
+        <span class="mb-2 px-2">
+            {{product.price | currency}}
+        </span>
+        <div class="btn-group mt-auto mb-1 px-2">
+            <button class="btn btn-outline-secondary fa fa-shopping-cart me-2">
+            </button>
+            <button class="btn btn-outline-secondary">View</button>
+        </div>
+        
+    </div>
+
+  </div>
