@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "slqlrzI5I9Y6hBYplZh6P2AXn7tKdIm20zNa8niCyg0=",
+  "Hash": "SyEXqCbF+m/JQzkKlGxzvfhN9YBTaGKXqof2B2RMsl0=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -10,36 +10,17 @@
     {
       "Name": "API\\wwwroot",
       "Source": "API",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\images\\desktop.ini",
+      "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\products\\atAt.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/desktop.ini",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\desktop.ini"
-    },
-    {
-      "Identity": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\images\\products\\atAt.webp",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/atAt.webp",
       "AssetKind": "All",
@@ -55,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\atAt.webp"
     },
     {
-      "Identity": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\images\\products\\batcave.webp",
+      "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\products\\batcave.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/batcave.webp",
       "AssetKind": "All",
@@ -74,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\batcave.webp"
     },
     {
-      "Identity": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\images\\products\\batMobile.webp",
+      "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\products\\batMobile.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/batMobile.webp",
       "AssetKind": "All",
@@ -93,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\batMobile.webp"
     },
     {
-      "Identity": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\images\\products\\darthVader.webp",
+      "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\products\\darthVader.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/darthVader.webp",
       "AssetKind": "All",
@@ -112,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\darthVader.webp"
     },
     {
-      "Identity": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\images\\products\\disneyCastle.webp",
+      "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\products\\disneyCastle.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/disneyCastle.webp",
       "AssetKind": "All",
@@ -131,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\disneyCastle.webp"
     },
     {
-      "Identity": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\images\\products\\eveWalle.webp",
+      "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\products\\eveWalle.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/eveWalle.webp",
       "AssetKind": "All",
@@ -150,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\eveWalle.webp"
     },
     {
-      "Identity": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\images\\products\\falcon.webp",
+      "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\products\\falcon.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/falcon.webp",
       "AssetKind": "All",
@@ -169,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\falcon.webp"
     },
     {
-      "Identity": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\images\\products\\gauntlet.webp",
+      "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\products\\gauntlet.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/gauntlet.webp",
       "AssetKind": "All",
@@ -188,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\gauntlet.webp"
     },
     {
-      "Identity": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\images\\products\\greenGoblin.webp",
+      "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\products\\greenGoblin.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/greenGoblin.webp",
       "AssetKind": "All",
@@ -207,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\greenGoblin.webp"
     },
     {
-      "Identity": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\images\\products\\hogwarts.webp",
+      "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\products\\hogwarts.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/hogwarts.webp",
       "AssetKind": "All",
@@ -226,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hogwarts.webp"
     },
     {
-      "Identity": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\images\\products\\hogwartsTrain.webp",
+      "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\products\\hogwartsTrain.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/hogwartsTrain.webp",
       "AssetKind": "All",
@@ -245,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hogwartsTrain.webp"
     },
     {
-      "Identity": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\images\\products\\mcLaren2.webp",
+      "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\products\\mcLaren2.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/mcLaren2.webp",
       "AssetKind": "All",
@@ -264,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\mcLaren2.webp"
     },
     {
-      "Identity": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\images\\products\\mcLarenCar.webp",
+      "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\products\\mcLarenCar.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/mcLarenCar.webp",
       "AssetKind": "All",
@@ -283,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\mcLarenCar.webp"
     },
     {
-      "Identity": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\images\\products\\r2d2.webp",
+      "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\products\\r2d2.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/r2d2.webp",
       "AssetKind": "All",
@@ -302,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\r2d2.webp"
     },
     {
-      "Identity": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\images\\products\\spaceAstronaut.webp",
+      "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\products\\spaceAstronaut.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/spaceAstronaut.webp",
       "AssetKind": "All",
@@ -321,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\spaceAstronaut.webp"
     },
     {
-      "Identity": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\images\\products\\spaceShuttle.webp",
+      "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\products\\spaceShuttle.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/spaceShuttle.webp",
       "AssetKind": "All",
@@ -340,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\spaceShuttle.webp"
     },
     {
-      "Identity": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\images\\products\\stitch.webp",
+      "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\products\\stitch.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/stitch.webp",
       "AssetKind": "All",
@@ -359,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\stitch.webp"
     },
     {
-      "Identity": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\images\\products\\venator.webp",
+      "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\products\\venator.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo Legion\\Desktop\\New Project\\lego\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/venator.webp",
       "AssetKind": "All",
