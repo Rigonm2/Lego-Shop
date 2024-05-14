@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SyEXqCbF+m/JQzkKlGxzvfhN9YBTaGKXqof2B2RMsl0=",
+  "Hash": "ziM/SMDeJoO5evvzEHMKFLkytj91tpOX3P/IH+uw3dw=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\desktop.ini",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/desktop.ini",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\desktop.ini"
+    },
     {
       "Identity": "C:\\Users\\Lenovo Legion\\Documents\\GitHub\\Lego-Shop\\API\\wwwroot\\images\\products\\atAt.webp",
       "SourceId": "API",

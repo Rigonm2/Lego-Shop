@@ -14,7 +14,7 @@ namespace API.Extensions
     {
         public static IServiceCollection AddApplicationServices(this IServiceCollection services, IConfiguration config)
         {
-
+            
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             services.AddEndpointsApiExplorer();
             services.AddSwaggerGen();
@@ -32,8 +32,8 @@ namespace API.Extensions
                 {
 
                     var errors = ActionContext.ModelState.Where(e => e.Value.Errors.Count > 0)
-                                                        .SelectMany(x => x.Value.Errors)
-                                                        .Select(x => x.ErrorMessage).ToArray();
+                                                         .SelectMany(x => x.Value.Errors)
+                                                         .Select(x => x.ErrorMessage).ToArray();
 
                     var errorResponse = new ApiValidationErrorResponse
                     {
@@ -41,6 +41,13 @@ namespace API.Extensions
                     };
                     return new BadRequestObjectResult(errorResponse);
                 };
+            });
+
+            services.AddCors(opt =>
+            {
+                opt.AddPolicy("CorsPolicy",policy =>{
+                    policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("https://localhost:4200");
+                });
             });
 
 
