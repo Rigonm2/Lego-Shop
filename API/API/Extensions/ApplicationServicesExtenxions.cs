@@ -7,6 +7,7 @@ using Core.Interfaces;
 using Infrastructure.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using StackExchange.Redis;
 
 namespace API.Extensions
 {
@@ -22,6 +23,11 @@ namespace API.Extensions
             {
                 opt.UseSqlite(config.GetConnectionString("DefaultConnection"));
             });
+            services.AddSingleton<IConnectionMultiplexer>(c =>{
+                var options = ConfigurationOptions.Parse(config.GetConnectionString("Redis"));
+                return ConnectionMultiplexer.Connect(options);
+            });
+            services.AddScoped<IBasketRepository,BasketRepository>();
             services.AddScoped<iProductRepository, ProductRepository>();
             services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
@@ -32,8 +38,8 @@ namespace API.Extensions
                 {
 
                     var errors = ActionContext.ModelState.Where(e => e.Value.Errors.Count > 0)
-                                                        .SelectMany(x => x.Value.Errors)
-                                                        .Select(x => x.ErrorMessage).ToArray();
+                                                         .SelectMany(x => x.Value.Errors)
+                                                         .Select(x => x.ErrorMessage).ToArray();
 
                     var errorResponse = new ApiValidationErrorResponse
                     {
